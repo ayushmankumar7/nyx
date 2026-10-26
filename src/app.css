@@ -1,0 +1,36 @@
+@import "@fontsource-variable/jost";
+
+@property --spin {
+  syntax: "<angle>";
+  inherits: false;
+  initial-value: 0deg;
+}
+
+:root {
+  --ink: #05050c;
+  --text: #f4efe6;
+  --muted: rgba(232, 226, 255, 0.58);
+  --gold: #ffd99a;
+  --violet: #8f7dff;
+  --lilac: #c4b6ff;
+  --green: #7fe3a4;
+  font-family: "Jost Variable", "Segoe UI", system-ui, sans-serif;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  user-select: none;
+}
+
+html,
+body {
+  margin: 0;
+  overflow: hidden;
+  background: transparent;
+}
+
+/* Browser preview only: a moonlit desktop to judge the island against. */
+body.demo {
+  height: 100vh;
+  background:
+    radial-gradient(60% 50% at 50% 35%, rgba(120, 110, 200, 0.35), transparent 70%),
+    linear-gradient(#0d1030, #1c2050 60%, #2a2b5e);
+}
