@@ -9,7 +9,12 @@
 **It sleeps when you're busy, wakes when you come close, plays your music, keeps your to-dos,
 and makes it snow on your windows.**
 
-<img src="docs/screenshots/home.png" width="720" alt="Nyx open over the desktop, showing now playing with album art, a seek bar and playback controls" />
+[![Latest release](https://img.shields.io/github/v/release/ayushmankumar7/nyx?color=8f7dff&label=release)](https://github.com/ayushmankumar7/nyx/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/ayushmankumar7/nyx/total?color=ffd99a)](https://github.com/ayushmankumar7/nyx/releases)
+[![License: MIT](https://img.shields.io/badge/license-MIT-7fe3a4)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/ayushmankumar7/nyx?style=social)](https://github.com/ayushmankumar7/nyx/stargazers)
+
+<img src="docs/demo-island.gif" width="760" alt="Nyx in motion: track, volume and charging pop-ups, then hovering opens the panel and flips through to-dos, weather and the moon" />
 
 <sub>Windows · Tauri v2 + Svelte 5 · MIT · ~zero clicks to love</sub>
 
@@ -33,6 +38,8 @@ and makes it snow on your windows.**
 
 Turn on **Vibes** and Nyx paints living weather over your *whole desktop*. It isn't a
 wallpaper. It knows where your windows are.
+
+<p align="center"><img src="docs/demo-weather.gif" width="100%" alt="Snow piling up on top of windows, then rain splashing off title bars and streaming down their edges" /></p>
 
 <table>
   <tr>
@@ -181,3 +188,13 @@ The screenshots in this README were captured from these previews.
 | Mirror, moon phase | ✅ | ✅ | ✅ |
 
 Want Nyx on your Mac or Linux box sooner? The TODOs above are a great place to start. PRs welcome. 🌙
+
+---
+
+<div align="center">
+
+**If Nyx made you smile, a ⭐ helps other people find it.**
+
+MIT © ayushmankumar7
+
+</div>
