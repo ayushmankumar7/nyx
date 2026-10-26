@@ -35,6 +35,12 @@
   "bundle": {
     "active": true,
     "targets": "all",
+    "publisher": "ayushmankumar7",
+    "copyright": "© 2026 ayushmankumar7. MIT License.",
+    "category": "Utility",
+    "shortDescription": "A little moon that lives at the top of your screen",
+    "longDescription": "Nyx turns the top-centre of your display into a living island: now playing, to-dos, focus timers, tonight's moon, and desktop weather that piles snow on your windows.",
+    "homepage": "https://github.com/ayushmankumar7/nyx",
     "icon": [
       "icons/32x32.png",
       "icons/128x128.png",

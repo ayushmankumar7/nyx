@@ -13,7 +13,19 @@ and makes it snow on your windows.**
 
 <sub>Windows · Tauri v2 + Svelte 5 · MIT · ~zero clicks to love</sub>
 
+<br/>
+
+<a href="https://github.com/ayushmankumar7/nyx/releases/latest/download/Nyx_0.1.0_x64-setup.exe"><b>⬇️ Download for Windows</b></a>
+&nbsp;·&nbsp;
+<a href="https://github.com/ayushmankumar7/nyx/releases/latest">All releases</a>
+
+<sub>Windows 10/11 (64-bit) · 1.6 MB · installs in seconds, no admin needed</sub>
+
 </div>
+
+> **First launch:** Nyx isn't code-signed yet, so Windows SmartScreen may say *"Windows protected
+> your PC"*. Click **More info → Run anyway**. Once it's running, look for the moon at the top of
+> your screen and in the system tray.
 
 ---
 
@@ -89,7 +101,10 @@ When something happens, it pops up for a moment and then tucks itself away again
 
 ---
 
-## Get it running
+## Build from source
+
+Just want to use it? Grab the installer from [Releases](https://github.com/ayushmankumar7/nyx/releases/latest).
+To hack on it:
 
 ```sh
 npm install
